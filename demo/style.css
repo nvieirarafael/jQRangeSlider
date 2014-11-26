@@ -45,7 +45,7 @@ hr{
 	text-align:right;
 	margin-left:5px;
 	margin-right:0;
-	width:200px;	
+	width:200px;
 }
 .sliderZone img{
 	vertical-align:middle;
@@ -168,6 +168,10 @@ input[type=number]{
 
 #themeSelector .iThing{
 	left:130px;
+}
+
+#themeSelector .iThing-mini{
+	left:260px;
 }
 
 #themeSelector .selected{
