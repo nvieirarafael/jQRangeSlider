@@ -2,7 +2,7 @@
 (function($, undefined){
 
 	function createDemos(){
-		var simple = $("<div id='slider' />").appendTo("body"),
+		var simple = $("<div class='has-error'><div id='slider' /></div>").appendTo("body"),
 			date = $("<div id='date' />").appendTo("body"),
 			modifiable = $("<div id='modifiable' />").appendTo("body");
 

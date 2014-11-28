@@ -253,3 +253,7 @@
   margin-top: 25px;
   height: 5px;
 }
+
+div.has-error .ui-rangeSlider-bar{
+  background: #a94442;
+}
