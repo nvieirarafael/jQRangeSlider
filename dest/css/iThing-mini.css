@@ -257,3 +257,20 @@
 div.has-error .ui-rangeSlider-bar{
   background: #a94442;
 }
+
+div.has-error label {
+  color: #a94442;
+}
+
+div.ui-rangeSlider label {
+  position: absolute;
+  top: 20px;
+}
+
+div.ui-rangeSlider small.help-block {
+  display: none;
+}
+
+div.ui-rangeSlider-label {
+  bottom: 35px;
+}
